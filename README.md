@@ -21,21 +21,44 @@ I'm a Computer Science student with a passion for building practical software. I
 </p>
 
 ### Socials
+<p align="left">
+  <a href="https://www.github.com/saker-munshi" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/saker-munshi" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/saker.munshi.3/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/saker-munshi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Saker Munshi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/saker.munshi.3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/saker-munshi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saker-munshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/saker-munshi" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/saker-munshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saker-munshi"><img src="https://github-readme-stats.vercel.app/api?username=saker-munshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saker-munshi's GitHub stats" /></a>
+<a href="http://www.github.com/saker-munshi">
+  <img src="https://github-readme-stats.vercel.app/api?username=saker-munshi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="saker-munshi's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/saker-munshi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saker-munshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/saker-munshi">
+  <img src="https://streak-stats.demolab.com/?user=saker-munshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<a href="https://github.com/saker-munshi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saker-munshi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/saker-munshi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saker-munshi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
+</a>
+
+<b>Contribution Graph</b>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saker-munshi&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" />
 
 <b>Top Repositories</b>
+
 <div align="center">
   <a href="https://github.com/saker-munshi/alIen_InVasIon.git">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saker-munshi&repo=alIen_InVasIon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
@@ -44,12 +67,8 @@ src="https://img.shields.io/github/followers/saker-munshi?logo=github&style=for-
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saker-munshi&repo=Caculator_simple&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+
 <p align="center"><i>Last Updated: August 2026</i></p>
-
-
-
-
-
 
 
 
