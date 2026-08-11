@@ -256,11 +256,13 @@ I'm a Computer Science student with a passion for building practical software. I
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <!--
 <a href="http://www.github.com/saker-munshi">
   <img src="https://github-readme-stats.vercel.app/api?username=saker-munshi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"  />
 </a>
 -->
+
 
 <a href="http://www.github.com/saker-munshi">
   <img src="https://streak-stats.demolab.com/?user=saker-munshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
