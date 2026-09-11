@@ -297,9 +297,54 @@ I'm a Computer Science student with a passion for building practical software. I
 </div>
 -->
 
+
+
+
+<!--
+<br><br>
+<b>Contribution Graph</b>
+<br><br>
+-->
+<!--
+<img
+  src="https://ghchart.xqsit94.in/dark:default/saker-munshi"
+  alt="saker-munshi's GitHub contribution graph"
+/>
+-->
+<!--
+<img
+  src="https://ghchart.xqsit94.in/dark:default/saker-munshi"
+  alt="saker-munshi's GitHub contribution graph"
+/>
+-->
+<!--
+<img
+  src="https://github.pumbas.net/api/contributions/saker-munshi?colour=0891b2&bgColour=1c1917&dotColour=39d353" 
+  alt="saker-munshi's Contributions"/>
+<br>
+-->
+
+<b>Contribution Graph</b>  <br> <br>
+<img src="https://kusa-image.swfz.deno.net/saker-munshi?theme=dark" alt="saker-munshi's GitHub contribution graph" />
+<br> <br> <br>
+
+
+
+<!--
+<b>Contribution Graph</b>  <br> <br>
+<img src="https://kusa-image.swfz.deno.net/saker-munshi?theme=dark&past_years=2" alt="saker-munshi's GitHub contribution graph" />
+<br> <br> <br>
+-->
+
+
+<!--
 <b>Contribution Graph</b>  <br> <br>
 <img src="https://ghchart.rshah.org/39d353/saker-munshi" alt="saker-munshi's GitHub contribution graph" />
 <br> <br> <br>
+-->
+
+
+
 
 <b>LeetCode Stats</b> <br>  <br>
 <a href="https://leetcode.com/u/saker_munshi/">
@@ -355,8 +400,11 @@ I'm a Computer Science student with a passion for building practical software. I
 
 
 
-<p align="center"><i>Last Updated: August 2026</i></p>
+<p align ="center"><i>Last Updated: September 2026</i>
 
+<!--
+<p align="center"><i>Last Updated: August 2026</i></p>
+-->
 
 
 
