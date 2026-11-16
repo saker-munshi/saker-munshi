@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saker Munshi
 =====================================================================================================================================
 
-Computer Science Student | Data Science Researcher | Software Developer | Tech Enthusiast | AI-Assisted Developer |Prompt Engineer
+Computer Science Student | AI Researcher | Software Developer | Tech Enthusiast | AI-Assisted Developer |Prompt Engineer
 --------------------------------------------------------------------------------------------------------
 
 I'm a Computer Science student with a passion for building practical software. I enjoy learning new technologies and turning ideas into working applications while sharpening my problem-solving skills.
