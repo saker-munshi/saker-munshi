@@ -9,7 +9,7 @@ Computer Science Student | AI Researcher | Software Developer | Tech Enthusiast 
 I'm a Computer Science student with a passion for building practical software. I enjoy learning new technologies and turning ideas into working applications while sharpening my problem-solving skills.
 
 * 🌍  I'm based in Dhaka.
-* 🖥️  See my portfolio at [MY PORTFOLIO](https://saker-munshi.github.io/sakermunshi/)
+* 🖥️  See my portfolio at [MY PORTFOLIO](https://saker-munshi.github.io/sakermunshi.github.io/)
 * ✉️  You can contact me at [sakermunshi472@gmail.com](mailto:sakermunshi472@gmail.com)
 * 🚀  I'm currently working on [Learn Code](http://github.com/saker-munshi/Learn-Code.git)
 * 🧠  I'm currently learning LLM,ML.
